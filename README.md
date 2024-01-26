@@ -27,7 +27,7 @@
   - IoT and Embedded Systems projects
   - Blockchain projects
 
-  - 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the guitar!
 
 <!---
